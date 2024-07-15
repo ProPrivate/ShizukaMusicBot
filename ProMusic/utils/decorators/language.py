@@ -1,6 +1,7 @@
 from ProMusic.misc import SUDOERS
 from ProMusic.utils.database import get_lang, is_maintenance
 from strings import get_string
+from config import SUPPORT_GROUP
 
 
 def language(mystic):
